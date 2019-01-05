@@ -1,0 +1,6 @@
+__NR_delete_module
+__NR_quotactl
+__NR_fork
+__NR_exit
+__NR_read
+__NR_ssetmask

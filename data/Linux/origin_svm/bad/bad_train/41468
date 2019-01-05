@@ -1,0 +1,3 @@
+__NR_setgid
+__NR_setpgid
+__NR_signal

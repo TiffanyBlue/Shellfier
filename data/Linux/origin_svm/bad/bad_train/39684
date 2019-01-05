@@ -1,0 +1,7 @@
+__NR_unlink
+__NR_unlink
+__NR_execve
+__NR_setgid
+__NR_fcntl
+__NR_setpgid
+__NR_signal

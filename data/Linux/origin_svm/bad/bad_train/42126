@@ -1,0 +1,8 @@
+__NR_unlink
+__NR_unlink
+__NR_execve
+__NR_open
+__NR_link
+__NR_exit
+__NR_exit
+__NR_sgetmask

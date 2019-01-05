@@ -1,0 +1,5 @@
+__NR_unlink
+__NR_unlink
+__NR_execve
+__NR_clone
+__NR_sgetmask

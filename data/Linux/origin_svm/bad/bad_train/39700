@@ -1,0 +1,7 @@
+__NR_unlink
+__NR_unlink
+__NR_execve
+__NR_fork
+__NR_restart_syscall
+__NR_exit
+__NR_ssetmask
